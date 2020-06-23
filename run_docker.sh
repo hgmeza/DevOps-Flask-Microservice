@@ -10,4 +10,4 @@ docker build . -t "hgmeza/devops-flask-microservices"
 docker images ls
 # Step 3: 
 # Run flask app
-docker run  -p 127.0.0.1:8000:80 --name "devops-flask-microservices" "hgmeza/devops-flask-microservices"
+docker run  --rm -p 127.0.0.1:8000:80 --name "devops-flask-microservices" "hgmeza/devops-flask-microservices"
