@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![hgmeza](https://circleci.com/gh/hgmeza/DevOps-Flask-Microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/hgmeza/DevOps-Flask-Microservice)
 
 ## Project Overview
 
